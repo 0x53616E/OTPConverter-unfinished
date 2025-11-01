@@ -22,5 +22,3 @@
 
 Copyright **Sanya**, November 2025.
 Last Update: Novemver 1st 2025.
-
----
