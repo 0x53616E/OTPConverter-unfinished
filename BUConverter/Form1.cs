@@ -11,7 +11,7 @@
  *     UI Framework:
         System.Windows.Forms: This is the core library for the entire application. 
         It provides the foundation for creating the graphical user interface (GUI), including the main window (Form), buttons (Button), combo boxes (ComboBox), message boxes (MessageBox), and file dialogs (OpenFileDialog, SaveFileDialog).
-       Core .NET Framework Libraries:
+ *     Core .NET Framework Libraries:
         System.IO: Used for all file handling operations, such as reading .sm files (File.ReadAllText) and writing .slk files (StreamWriter, File.WriteAllText).
         System.Linq: Heavily used for querying and manipulating the lists of notes (e.g., using .Where(), .Select(), .Any(), .ToList()).
         System.Text: Used for efficient string manipulation, primarily with the StringBuilder class to construct the output file content.
