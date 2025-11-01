@@ -14,7 +14,7 @@
 
 # Guide
 
-
+[Read the Guide as PDF here](One-Two_Party_Charting_Guide.pdf)
 
 ---
 
